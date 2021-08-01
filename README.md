@@ -1,2 +1,2 @@
-# Cubos
-Projecto em desenvolvimento 
+#Cubos
+Startup em desenvolvimento 
